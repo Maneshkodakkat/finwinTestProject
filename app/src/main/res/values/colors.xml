@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2294E3</color>
+    <color name="colorPrimaryDark">#1379DB</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="mediumShadowColor">#E2E5E6</color>
+    <color name="backgroundColor">#FCFCFC</color>
+    <color name="navColor">#333</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="red">#FE4048</color>
+    <color name="bottomNavigation">#223240</color>
+    <color name="transparentWhite">#50ffffff</color>
+    <color name="blueAccent">#6F27E2</color>
+    <color name="appointment">#2294E3</color>
+    <color name="textGrey">#606060</color>
+    <color name="textLightGrey">#ADC1BFBF</color>
+    <color name="textBlue">#4953B7</color>
+    <color name="greenCheck">#21D182</color>
+    <color name="liteGrey">#A9A9A9</color>
+    <color name="literGrey">#EFEDED</color>
+    <color name="viewBackground">#FDFDFD</color>
+    <color name="errorColor">#FF5722</color>
+    <color name="rateUs">#FDD140</color>
+    <color name="lightGradientEnd">#08EDB6</color>
+    <color name="lightGradientStart">#2ABAD6</color>
+    <color name="gradientStart">#000000</color>
+    <color name="gradientEnd">#000000</color>
+    <color name="menuIconGrey">#8C99A7</color>
+    <color name="mtrl_textinput_default_box_stroke_color">#fff</color>
+    <color name="home_unselected_color">#7a8490</color>
+    <color name="yamaha_color">#c70100</color>
+
+
+</resources>
